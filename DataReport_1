@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-Cash:200
-Credit:1000
-Deposits:700
-OwnFunds:300
-=======
 Cash:3000
 Credit:15000
 Deposits:12000
 Loans:5000
+OwnFunds:300
 BadDebts:-300
->>>>>>> main
